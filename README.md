@@ -1,1 +1,1 @@
-# hacker-rank-sql
+# This Repository is the answer for the Hacker Hank Challenges
