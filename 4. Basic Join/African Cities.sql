@@ -1,0 +1,1 @@
+SELECT CI.Name FROM CITY CI INNER JOIN COUNTRY CO ON CI.CountryCode = CO.Code WHERE CO.Continent = 'Africa'
